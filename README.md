@@ -1,0 +1,2 @@
+# S-NES2USB
+(S)NES2USB
