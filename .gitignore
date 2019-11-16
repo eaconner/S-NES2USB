@@ -1,0 +1,8 @@
+.DS_Store
+Firmware/bin/*
+Firmware/Config/*
+Firmware/LUFA/*
+Firmware/*.c
+Firmware/*.h
+Firmware/makefile
+Hardware/*.epf
